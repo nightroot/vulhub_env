@@ -1,6 +1,6 @@
 # vulhub_env
 Private vulnerability environment
 
-NoComponent|Upload|
+Component|Upload|
 ---|:--:
 Struct|×
